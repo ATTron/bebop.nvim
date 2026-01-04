@@ -67,11 +67,11 @@ colorscheme bebop
 
 ```lua
 require("bebop").setup({
-  -- Use transparent background (default: true)
+  -- Use transparent background
   -- Set to false to use the colorscheme's background color
   transparent = true,
 
-  -- Set terminal colors (default: true)
+  -- Set terminal colors
   terminal_colors = true,
 
   -- Preset: "default", "spike", or "faye" (default: "default")

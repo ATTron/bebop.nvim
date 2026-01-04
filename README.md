@@ -2,7 +2,17 @@
 
 A Neovim colorscheme inspired by the visual style of Cowboy Bebop. Bright, defined colors with rusty warmth — space western noir meets retro computing.
 
-Designed for **transparent terminal backgrounds** by default.
+### Default
+
+<img width="2880" height="1920" alt="Screenshot from 2026-01-04 02-19-04" src="https://github.com/user-attachments/assets/e3807ce7-2b1b-41ae-b6a7-5e4e530dd67f" />
+
+### Spike
+
+<img width="2880" height="1920" alt="Screenshot from 2026-01-04 02-19-29" src="https://github.com/user-attachments/assets/7521155f-f1d0-4116-ac50-2b1821639014" />
+
+### Faye
+
+<img width="2880" height="1920" alt="Screenshot from 2026-01-04 02-19-46" src="https://github.com/user-attachments/assets/87ae3438-c463-41fa-beb0-91103a438e6a" />
 
 ## Features
 
@@ -74,9 +84,6 @@ vim.cmd([[colorscheme bebop]])
 
 ### Default
 The original bebop look. Balanced, warm, and versatile.
-- **Keywords**: Rust orange (`#e07850`)
-- **Functions**: Aqua (`#4dd0e1`)
-- **Types**: Yellow (`#ffd54f`)
 
 ```lua
 require("bebop").setup({ preset = "default" })
@@ -84,10 +91,6 @@ require("bebop").setup({ preset = "default" })
 
 ### Spike
 Heavy use of the signature blue from Spike's suit. More melancholic, cooler feel.
-- **Keywords**: Blue (`#64b5f6`)
-- **Functions**: Aqua (`#4dd0e1`)
-- **Types**: Yellow (`#ffd54f`)
-- **Namespaces**: Blue (`#64b5f6`)
 
 ```lua
 require("bebop").setup({ preset = "spike" })
@@ -95,33 +98,15 @@ require("bebop").setup({ preset = "spike" })
 
 ### Faye
 Vibrant pinks and purples with warm accents. Casino glamour energy.
-- **Keywords**: Purple (`#ba68c8`)
-- **Functions**: Aqua (`#4dd0e1`)
-- **Types**: Amber (`#ffb74d`)
-- **Fields**: Pink (`#d884a2`)
 
 ```lua
 require("bebop").setup({ preset = "faye" })
 ```
 
-## Color Palette
-
-| Color | Hex | Usage |
-|-------|-----|-------|
-| Aqua | `#4dd0e1` | Functions, methods |
-| Yellow | `#ffd54f` | Types, classes, structs |
-| Rust | `#e07850` | Keywords (default preset) |
-| Orange | `#ff8c42` | Numbers, constants, booleans |
-| Green | `#9ccc65` | Strings |
-| Purple | `#ba68c8` | Special characters, lifetimes |
-| Blue | `#64b5f6` | Fields, properties |
-| Copper | `#cd7f50` | Preprocessor, includes |
-| Coral | `#ff7070` | Labels, important highlights |
-| Amber | `#ffb74d` | Warnings, modified files |
-
 ## Accessing Colors
 
 You can access the color palette for your own customizations:
+
 
 ```lua
 local bebop = require("bebop")
@@ -134,18 +119,6 @@ vim.api.nvim_set_hl(0, "MyCustomGroup", { fg = colors.aqua, bold = true })
 -- Example: use preset colors for consistency
 vim.api.nvim_set_hl(0, "MyKeywordGroup", { fg = preset.keyword })
 ```
-
-## Disabling Transparency
-
-If you prefer a solid background:
-
-```lua
-require("bebop").setup({
-  transparent = false,
-})
-```
-
-This will use `#1c1816` as the background color.
 
 ## Supported Plugins
 

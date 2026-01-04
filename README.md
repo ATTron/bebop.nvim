@@ -4,15 +4,16 @@ A Neovim colorscheme inspired by the visual style of Cowboy Bebop. Bright, defin
 
 ### Default
 
-<img width="2880" height="1920" alt="Screenshot from 2026-01-04 02-19-04" src="https://github.com/user-attachments/assets/e3807ce7-2b1b-41ae-b6a7-5e4e530dd67f" />
+<img width="2880" height="1920" alt="Screenshot from 2026-01-04 02-45-06" src="https://github.com/user-attachments/assets/327923c0-6b99-4a23-8d40-4f515eb6062f" />
 
 ### Spike
 
-<img width="2880" height="1920" alt="Screenshot from 2026-01-04 02-19-29" src="https://github.com/user-attachments/assets/7521155f-f1d0-4116-ac50-2b1821639014" />
+<img width="2880" height="1920" alt="Screenshot from 2026-01-04 02-45-25" src="https://github.com/user-attachments/assets/b7253827-f608-4fea-b0c8-c32f367c2ecb" />
 
 ### Faye
 
-<img width="2880" height="1920" alt="Screenshot from 2026-01-04 02-19-46" src="https://github.com/user-attachments/assets/87ae3438-c463-41fa-beb0-91103a438e6a" />
+<img width="2880" height="1920" alt="Screenshot from 2026-01-04 02-50-22" src="https://github.com/user-attachments/assets/fd072b4e-9ca7-48b5-bad8-ff40af30682b" />
+
 
 ## Features
 

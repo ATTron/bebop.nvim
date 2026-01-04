@@ -1,6 +1,6 @@
 # bebop.nvim
 
-A Neovim colorscheme inspired by the visual style of Cowboy Bebop. Bright, defined colors with rusty warmth — space western noir meets retro computing.
+A Neovim colorscheme inspired by the visual style of Cowboy Bebop. Space western noir meets retro computing.
 
 ### Default
 
@@ -138,19 +138,6 @@ vim.api.nvim_set_hl(0, "MyKeywordGroup", { fg = preset.keyword })
 - [Bufferline](https://github.com/akinsho/bufferline.nvim)
 - [Mini.nvim](https://github.com/echasnovski/mini.nvim)
 - [Dashboard](https://github.com/glepnir/dashboard-nvim) / [Alpha](https://github.com/goolord/alpha-nvim)
-
-## Inspiration
-
-Named after the Bebop from Cowboy Bebop. The palette draws from the show's visual style:
-- Rusty ship interiors
-- Neon-lit rain scenes  
-- Space western noir atmosphere
-- That specific desaturated-but-rich warmth of late 90s cel animation
-
-The presets are inspired by the main characters:
-- **Default**: The Bebop itself — warm, lived-in, versatile
-- **Spike**: Cool blues, melancholic, like his suit and demeanor
-- **Faye**: Vibrant, glamorous, with casino energy
 
 *See you space cowboy...*
 

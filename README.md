@@ -17,7 +17,7 @@ A Neovim colorscheme inspired by the visual style of Cowboy Bebop. Bright, defin
 
 ## Features
 
-- Bright, saturated colors with gruvbox-level definition
+- Bright, saturated colors
 - Transparent background support (enabled by default)
 - Three presets: **default**, **spike**, and **faye**
 - Terminal colors support

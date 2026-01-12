@@ -6,9 +6,9 @@ local M = {}
 
 -- Default configuration
 M.config = {
-  transparent = true,     -- Use transparent background (default: true)
-  terminal_colors = true, -- Set terminal colors (default: true)
-  preset = "default",     -- Preset: "default", "spike", or "faye"
+  transparent = false,
+  terminal_colors = false,
+  preset = "default", -- Preset: "default", "spike", or "faye"
 }
 
 -- Store resolved colors for external access

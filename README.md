@@ -5,15 +5,15 @@
 
 ### Default
 
-<img width="1127" height="746" alt="Screenshot from 2026-01-04 02-45-06" src="https://github.com/user-attachments/assets/327923c0-6b99-4a23-8d40-4f515eb6062f" />
+<img width="1127" height="746" alt="Screenshot from 2026-01-12 14-53-50" src="https://github.com/user-attachments/assets/ff08e0fa-dd95-444f-a3f5-254425d65eb3" />
 
 ### Spike
 
-<img width="1127" height="746" alt="Screenshot from 2026-01-04 02-45-25" src="https://github.com/user-attachments/assets/b7253827-f608-4fea-b0c8-c32f367c2ecb" />
+<img width="1127" height="746" alt="Screenshot from 2026-01-12 14-54-37" src="https://github.com/user-attachments/assets/d2b8a019-8d9d-4407-8ee6-fae7b0796917" />
 
 ### Faye
 
-<img width="1127" height="746" alt="Screenshot from 2026-01-04 02-50-22" src="https://github.com/user-attachments/assets/fd072b4e-9ca7-48b5-bad8-ff40af30682b" />
+<img width="1127" height="746" alt="Screenshot from 2026-01-12 14-54-56" src="https://github.com/user-attachments/assets/b2b4e258-66f9-4efd-ad30-89ef18774a63" />
 
 ## Installation
 

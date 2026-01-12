@@ -1,6 +1,6 @@
 <div align="center"><h1>bebop.nvim</h1></div>
 
-<p align="center">*see you space cowboy...*</p>
+<p align="center"><i>see you space cowboy...</i></p>
 <p align="center">A Neovim colorscheme inspired by the visual style of Cowboy Bebop.</p>
 
 ### Default
